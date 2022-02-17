@@ -5,7 +5,7 @@ If you are currently using a Cloud Storage Service like Dropbox, Google Drive, M
 Consider reducing the need to trust your provider, by using an alternative below that supports [end-to-end encryption](https://wikipedia.org/wiki/End-to-end_encryption) (E2EE).
 
 ## Nextcloud
-> 
+
 > Nextcloud is a suite of free and open-source client-server software for creating your own file hosting services on a private server you control. It also comes with experimental end-to-end encryption (E2EE).
 > 
 > We recommend checking if your Nextcloud provider supports E2EE, otherwise you have to trust the provider to not look at your files.
@@ -14,4 +14,15 @@ Consider reducing the need to trust your provider, by using an alternative below
 > 
 > - [Visit nextcloud.com](https://nextcloud.com/)
 > - [Privacy Policy](https://nextcloud.com/privacy/)
+
+
+## Proton Drive
+
+> Proton Drive is an end-to-end encrypted (E2EE) general file storage service by the popular encrypted email provider ProtonMail.
 > 
+> Proton Drive is currently in beta and only is only available through a web client.
+> 
+> When using a web client, you are placing trust in the server to send you proper JavaScript code to derive the decryption key and authentication token locally in your browser. A compromised server can send you malicious JavaScript code to steal your master password and decrypt your data. If this does not fit your threat model, consider using an alternative.
+>
+> - [Visit protonmail.com](https://protonmail.com/)
+> - [Privacy Policy](https://protonmail.com/privacy-policy)
