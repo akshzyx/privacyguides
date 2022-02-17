@@ -1,3 +1,5 @@
+# Privacy Guides
+
 ## The guide to restoring your online privacy.
 
 You are being watched. Private and state-sponsored organizations are monitoring and recording your online activities. Privacy Guides provides services, tools and knowledge to protect your privacy against global mass surveillance.
