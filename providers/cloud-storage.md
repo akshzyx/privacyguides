@@ -26,3 +26,13 @@ Consider reducing the need to trust your provider, by using an alternative below
 >
 > - [Visit protonmail.com](https://protonmail.com/)
 > - [Privacy Policy](https://protonmail.com/privacy-policy)
+
+
+## Tahoe-LAFS (Advanced)
+
+> Tahoe-LAFS is a free and open decentralized cloud storage system. It distributes your data across multiple servers. Even if some of the servers fail or are taken over by an attacker, the entire file store continues to function correctly, preserving your privacy and security. The servers used as storage pools do not have access to your data.
+> 
+> Due to the complexity of the system and the amount of nodes needed to set it up, Tahoe-LAFS is only recommended for seasoned system administrators.
+> 
+> - [Visit tahoe-lafs.org](https://www.tahoe-lafs.org/)
+
