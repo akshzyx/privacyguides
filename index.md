@@ -27,7 +27,7 @@ Trying to protect all your data from everyone all the time is impractical, expen
 # Privacy Guides Services, Tools and Alternatives
 
 ## Providers
-   - Cloud Storage
+   - [Cloud Storage](https://akshzyx.github.io/privacyguides/providers/cloud-storage)
    - DNS Servers
    - Email Providers
    - Search Engines
