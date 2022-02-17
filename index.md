@@ -23,6 +23,15 @@ Trying to protect all your data from everyone all the time is impractical, expen
 
 > Learn More About Threat Modeling
 
+
+# Privacy Guides Services, Tools and Alternatives
+
+## Providers
+## Software
+    - Browsers
+    - Digital Notebook 
+
+
 ```markdown
 Syntax highlighted code block
 
