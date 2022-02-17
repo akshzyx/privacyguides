@@ -27,9 +27,17 @@ Trying to protect all your data from everyone all the time is impractical, expen
 # Privacy Guides Services, Tools and Alternatives
 
 ## Providers
+   - Cloud Storage
+   - DNS Servers
+   - Email Providers
+   - Search Engines
+   - Social News Aggregators
+   - VPN Servivces
+
+
 ## Software
-    - Browsers
-    - Digital Notebook 
+   - Browsers
+   - Digital Notebook 
 
 
 ```markdown
