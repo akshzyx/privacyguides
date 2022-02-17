@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## The guide to restoring your online privacy.
 
-You can use the [editor on GitHub](https://github.com/akshzyx/PrivacyGuides/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You are being watched. Private and state-sponsored organizations are monitoring and recording your online activities. Privacy Guides provides services, tools and knowledge to protect your privacy against global mass surveillance.
 
 ### Markdown
 
