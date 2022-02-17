@@ -31,13 +31,36 @@ Trying to protect all your data from everyone all the time is impractical, expen
    - DNS Servers
    - Email Providers
    - Search Engines
+   - Social Networks
    - Social News Aggregators
    - VPN Servivces
 
 
 ## Software
    - Browsers
-   - Digital Notebook 
+   - Digital Notebooks
+   - Calendar/Contact Sync Tools
+   - Email Clients
+   - File Encryption Tools
+   - File Sharing and Sync
+   - Metadata Removal Tools
+   - Password Managers
+   - Productivity Tools
+   - Real-Time Communication
+   - Self-Contained Networks
+   - Video Streaming
+
+
+## Operating Systems
+   - Operating Systems (Legacy)
+   - Android
+
+
+## Privacy
+   - Threat Modeling
+
+
+## Blog
 
 
 ```markdown
