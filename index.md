@@ -7,6 +7,22 @@ You are being watched. Private and state-sponsored organizations are monitoring 
 ### Why should I care?
 
 **“I have nothing to hide. Why should I care about my privacy?”**
+
+Much like the right to interracial marriage, woman's suffrage, freedom of speech, and many others, we didn't always have the right to privacy. In several dictatorships, many still don't. Generations before ours fought for our right to privacy. **Privacy is a human right inherent to all of us**, that we are entitled to without discrimination.
+
+You shouldn't confuse privacy with secrecy. We know what happens in the bathroom, but you still close the door. That's because you want privacy, not secrecy. **Everyone** has something to hide, privacy is something that makes you human.
+
+
+### What should I do?
+
+**First, you need to make a plan.**
+
+Trying to protect all your data from everyone all the time is impractical, expensive, and exhausting. But, don't worry! Security is a process, and by thinking ahead you can put together a plan that's right for you. Security isn't just about the tools you use or the software you download. Rather, it begins with understanding the unique threats you face, and how you can counter them.
+
+**This process of identifying threats and defining countermeasures is called threat modeling**, and it forms the basis of every good security and privacy plan.
+
+> Learn More About Threat Modeling
+
 ```markdown
 Syntax highlighted code block
 
