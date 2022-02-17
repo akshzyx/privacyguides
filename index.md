@@ -4,10 +4,9 @@
 
 You are being watched. Private and state-sponsored organizations are monitoring and recording your online activities. Privacy Guides provides services, tools and knowledge to protect your privacy against global mass surveillance.
 
-### Markdown
+### Why should I care?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+**“I have nothing to hide. Why should I care about my privacy?”**
 ```markdown
 Syntax highlighted code block
 
